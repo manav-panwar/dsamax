@@ -12,5 +12,3 @@ def worker(height):
             j -= 1
     
     return water
-
-print(worker(height = [1,1]))
